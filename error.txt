@@ -1,0 +1,2 @@
+data added,time:Wed, 15 Nov 2023 06:09:11 GMTdata added,time:Wed, 15 Nov 2023 06:11:15 GMTData added successfully,time:Wed, 15 Nov 2023 06:13:37 GMTdetails updated successfully,time:Wed, 15 Nov 2023 06:36:34 GMTsomething went wrong,time:Wed, 15 Nov 2023 07:14:11 GMTENOENT: no such file or directory, open '/.details.json'----time:Wed, 15 Nov 2023 12:45:56 GMT
+Cannot read properties of undefined (reading 'findIndex')----time:Wed, 15 Nov 2023 12:45:56 GMT
